@@ -1,4 +1,6 @@
 ---
-aws_account_id: 161285725140
-prefix: pio-teks-tg
-tf_state_bucket_region: eu-west-1
+aws_account_id: 124740604913
+default_domain_name: ilya.panarin@kandasoft.com
+prefix: infra
+project: sartorius
+tf_state_bucket_region: us-east-1

@@ -1,3 +1,4 @@
 ---
-Owner: particuleio
-Project: teks-tg
+Owner: sartorius
+Terraform: "0.14"
+Project: sartorius
